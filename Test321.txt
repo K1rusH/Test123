@@ -1,1 +1,5 @@
 print("Hello Kodland")
+If shoot
+{
+	print("Kill_all")
+}
