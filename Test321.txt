@@ -1,5 +1,1 @@
 print("Hello Kodland")
-if(Input.GetKeyDown(KeyCode.W))
-{
-	anim.SetBool("death", true);
-}
